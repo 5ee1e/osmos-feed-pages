@@ -5,4 +5,4 @@
 
 cacheUrl: https://5ee1e.github.io/osmos-feed-pages/cache.json
 sources:
-  - href: https://node2.feed43.com/fig-memo-r18.xml
+  - href: http://feed43.com/fig-memo-r18.xml
